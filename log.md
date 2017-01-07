@@ -1,14 +1,14 @@
-# 100 Days Of Code - Log
-
-[My freeCodeCamp profile](https://www.freecodecamp.com/janzeteachesit) currently at [151]
-
-[My Codepen profile](https://codepen.io/janzeteachesit/)
-
 ## Contents
 * [Log - click here to see my progress](https://github.com/janzeteachesit/100-days-of-code/blob/master/log.md)
 * [Rules](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/rules.md)
 * [FAQ](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/FAQ.md)
 * [Resources](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/resources.md)
+
+# 100 Days Of Code - Log
+
+[My freeCodeCamp profile](https://www.freecodecamp.com/janzeteachesit) currently at [151]
+
+[My Codepen profile](https://codepen.io/janzeteachesit/)
 
 ### Day 1: January 6, 2016 Friday
 
