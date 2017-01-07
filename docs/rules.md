@@ -1,3 +1,9 @@
+## Contents
+* [Log - click here to see my progress](https://github.com/janzeteachesit/100-days-of-code/blob/master/log.md)
+* [Rules](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/rules.md)
+* [FAQ](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/FAQ.md)
+* [Resources](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/resources.md)
+
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
@@ -20,9 +26,3 @@ January 6th, 2016. [PUT YOUR DATE HERE]
 3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
-
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
