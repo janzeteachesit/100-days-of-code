@@ -1,10 +1,10 @@
-## FAQ:
-
 ## Contents
 * [Log - click here to see my progress](log.md)
 * [Rules](docs/rules.md)
 * [FAQ](docs/FAQ.md)
 * [Resources](docs/resources.md)
+
+# FAQ:
 
   **Q:** How do I get in touch with the people who are also doing this challenge?  
   **A:** Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) — you don’t need an invite, it’s open for anyone to join. Also, follow [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) on Twitter to stay in touch with the community.
