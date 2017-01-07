@@ -11,7 +11,7 @@ January 6th, 2016. [PUT YOUR DATE HERE]
 2. If I code for work (coding for someone else), that time won't count towards the challenge; but coding that is to develop my skills is acceptable.
 3. I will try push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+5. I have just started learning to code and will use the time spent doing tutorials, online courses and other similar resources will  towards this challenge, as per the [FAQ](FAQ.md).  As quickly as is possible, I will start work on real projects, and accept real coding challenges. 
 
 
 ## Ideas to make this challenge more effective
