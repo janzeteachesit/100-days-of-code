@@ -8,7 +8,7 @@
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts**: the JavaScrpt exercises move very quickly.  I will have to suggest some support exercieses for my students.
+**Thoughts**: the JavaScrpt exercises move very quickly.  I will have to suggest some support exercises for my students.
 
 **Link(s) to work**
 
