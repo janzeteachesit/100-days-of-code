@@ -4,6 +4,12 @@
 
 [My Codepen profile](https://codepen.io/janzeteachesit/)
 
+## Contents
+* [Log - click here to see my progress](https://github.com/janzeteachesit/100-days-of-code/blob/master/log.md)
+* [Rules](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/rules.md)
+* [FAQ](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/FAQ.md)
+* [Resources](https://github.com/janzeteachesit/100-days-of-code/blob/master/docs/resources.md)
+
 ### Day 1: January 6, 2016 Friday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
