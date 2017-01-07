@@ -1,4 +1,11 @@
 ## FAQ:
+
+## Contents
+* [Log - click here to see my progress](log.md)
+* [Rules](docs/rules.md)
+* [FAQ](docs/FAQ.md)
+* [Resources](docs/resources.md)
+
   **Q:** How do I get in touch with the people who are also doing this challenge?  
   **A:** Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) — you don’t need an invite, it’s open for anyone to join. Also, follow [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) on Twitter to stay in touch with the community.
 
@@ -31,8 +38,3 @@
   **Q:** If everyone started on a certain day, should I join them on the day they are? For example, from Day 12?  
   **A:** This challenge is individual, so when you join you start at day 1. Whenever you’ll be posting an update on Twitter or elsewhere, make sure to mention which day you are on and use the hashtag so that people can find and support you!  
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
