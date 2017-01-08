@@ -26,6 +26,8 @@
 * [Project Eular challenges](https://projecteuler.net/problem=1), 
 * [W3 Exercise](http://www.w3resource.com/javascript-exercises/) 
 * Codepen: [Javascript Preprocessors](https://blog.codepen.io/documentation/editor/using-js-preprocessors/), [Adding External Resources](https://blog.codepen.io/documentation/editor/adding-external-resources/)
+* [GitBook: Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
+* [GitBook: Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 
 **Link(s) to work** [Countdown timer](https://codepen.io/janzeteachesit/pen/VPLOYG) see notes for more info and links
 
