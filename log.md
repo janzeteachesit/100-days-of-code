@@ -29,7 +29,10 @@
 * [GitBook: Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
 * [GitBook: Learn Markdown](https://gitbookio.gitbooks.io/markdown/content/)
 
-**Link(s) to work** [Countdown timer](https://codepen.io/janzeteachesit/pen/VPLOYG) see notes for more info and links
+**Link(s) to work** 
+* [Countdown timer](https://codepen.io/janzeteachesit/pen/VPLOYG) see notes for more info and links
+* [GitHub: stem8-math](https://github.com/janzeteachesit/stem8-math)
+* [GitBook: STEM 8 Math](https://janzeteachesit.gitbooks.io/stem-8-math-text/content/)
 
 ### Day 001: January 6, 2017 Friday
 
