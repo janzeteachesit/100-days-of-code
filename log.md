@@ -10,7 +10,26 @@
 
 [My Codepen profile](https://codepen.io/janzeteachesit/)
 
-### Day 1: January 6, 2016 Friday
+### Day ##: Month D, YYYY Weekday
+
+**Today's Progress**:
+
+**Thoughts**:  
+**Link(s) to work**
+
+
+### Day 002: January 7, 2017 Saturday
+
+**Today's Progress**:  Worked on understanding GitHub better; integration with Codepen & GitBook; started a countdown timer project based off https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/ and https://codepen.io/SitePoint/pen/MwNPVq
+
+**Thoughts**:  
+* [Project Eular challenges](https://projecteuler.net/problem=1), 
+* [W3 Exercise](http://www.w3resource.com/javascript-exercises/) 
+* Codepen: [Javascript Preprocessors](https://blog.codepen.io/documentation/editor/using-js-preprocessors/), [Adding External Resources](https://blog.codepen.io/documentation/editor/adding-external-resources/)
+
+**Link(s) to work** [Countdown timer](https://codepen.io/janzeteachesit/pen/VPLOYG) see notes for more info and links
+
+### Day 001: January 6, 2017 Friday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
