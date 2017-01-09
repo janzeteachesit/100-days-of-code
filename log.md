@@ -13,11 +13,11 @@
 ### Day ##: Month D, YYYY Weekday
 **Today's Progress**:
 **Thoughts**:  
-* []()
+* [Link](#)
 **To Do**:
-- []
+- [] Task
 **Link(s) to work**:
-* []()
+* [Link](#)
 
 ### Day 003: January 8, 2017 Sunday
 
