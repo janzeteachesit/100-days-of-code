@@ -15,7 +15,7 @@
 **Thoughts**:  
 * [Link](#)
 **To Do**:
-- [] Task
+- [ ] Task
 **Link(s) to work**:
 * [Link](#)
 
@@ -33,7 +33,7 @@
 * [Exporting Pens: GitHub Gist](https://blog.codepen.io/documentation/features/exporting-pens/)
 
 **To Do**:
-- [] [Adding External Resources - CodePen](https://blog.codepen.io/documentation/editor/adding-external-resources/)
+- [ ] [Adding External Resources - CodePen](https://blog.codepen.io/documentation/editor/adding-external-resources/)
 
 **Link(s) to work**:
 * [Hill Generator v. 0120170108](https://codepen.io/janzeteachesit/pen/oBjLRL)
