@@ -11,12 +11,32 @@
 [My Codepen profile](https://codepen.io/janzeteachesit/)
 
 ### Day ##: Month D, YYYY Weekday
-
 **Today's Progress**:
+**Thoughts**:  
+* []()
+**To Do**:
+- []
+**Link(s) to work**:
+* []()
+
+### Day 003: January 8, 2017 Sunday
+
+**Today's Progress**: WOrked on a Hill Generator, based on https://seejamescode.github.io/hill-generator/.  code and everything originally by: [James Y Rauhut](https://twitter.com/seejamescode) ATX Designer working for IBM Design.  Totally cool idea & app.  Thanks James for introducing them to me.
 
 **Thoughts**:  
-**Link(s) to work**
 
+* [100 Days of Code Challenge@lwhite_tweets](https://medium.com/@lwhite_tweets/100-days-of-code-challenge-day-1-7e0f46becb27#.e8yw5zcxt)
+* [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+* [Learn Intermediate and Advanced JavaScript - JavaScript is Sexy](http://javascriptissexy.com/learn-intermediate-and-advanced-javascript/)
+* [HTML & CSS](https://www.codecademy.com/learn/web)
+* [Hills align us as teams - IBM](https://www.ibm.com/design/thinking/keys/hills/)
+* [Exporting Pens: GitHub Gist](https://blog.codepen.io/documentation/features/exporting-pens/)
+
+**To Do**:
+- [] [Adding External Resources - CodePen](https://blog.codepen.io/documentation/editor/adding-external-resources/)
+
+**Link(s) to work**:
+* [Hill Generator v. 0120170108](https://codepen.io/janzeteachesit/pen/oBjLRL)
 
 ### Day 002: January 7, 2017 Saturday
 
