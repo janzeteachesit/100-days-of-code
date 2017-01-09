@@ -28,7 +28,7 @@
 
 ### Day 003: January 8, 2017 Sunday
 
-**Today's Progress**: WOrked on a Hill Generator, based on https://seejamescode.github.io/hill-generator/.  code and everything originally by: [James Y Rauhut](https://twitter.com/seejamescode) ATX Designer working for IBM Design.  Totally cool idea & app.  Thanks James for introducing them to me.
+**Today's Progress**: Worked on a Hill Generator, based on https://seejamescode.github.io/hill-generator/.  code and everything originally by: [James Y Rauhut](https://twitter.com/seejamescode) ATX Designer working for IBM Design.  Totally cool idea & app.  Thanks James for introducing them to me.
 
 **Thoughts**:  
 
@@ -44,6 +44,7 @@
 - [ ] [Gists Help](https://help.github.com/categories/gists/)
 - [ ] [Wikis Help](https://help.github.com/categories/wiki/)
 - [ ] [FreeCodeCamp: A Tribute to Randall Munroe Gist](https://gist.github.com/janzeteachesit/14be19a25b417ba1d802d121b480dac8) Can I edit and import changes?
+- [ ] Publishing to GitBook, gh-pages and Medium
 
 **Link(s) to work**:
 * [Hill Generator v. 0120170108](https://codepen.io/janzeteachesit/pen/oBjLRL)
