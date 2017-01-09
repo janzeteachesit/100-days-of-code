@@ -41,9 +41,13 @@
 
 **To Do**:
 - [ ] [Adding External Resources - CodePen](https://blog.codepen.io/documentation/editor/adding-external-resources/)
+- [ ] [Gists Help](https://help.github.com/categories/gists/)
+- [ ] [Wikis Help](https://help.github.com/categories/wiki/)
+- [ ] [FreeCodeCamp: A Tribute to Randall Munroe Gist](https://gist.github.com/janzeteachesit/14be19a25b417ba1d802d121b480dac8) Can I edit and import changes?
 
 **Link(s) to work**:
 * [Hill Generator v. 0120170108](https://codepen.io/janzeteachesit/pen/oBjLRL)
+* [Hill Generator Gist](https://gist.github.com/janzeteachesit/2d344a7ca06ed3d27ad775b46eb9e203)
 
 ### Day 002: January 7, 2017 Saturday
 
