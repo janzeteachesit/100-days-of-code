@@ -26,6 +26,26 @@
 
 * [Link](#)
 
+### Day 004: January 9, 2017 Monday
+
+**Today's Progress**:
+
+**Thoughts**:  
+
+* [The Node Beginner Book](https://gomix.com/#!/project/node-beginner) and import/export to GitHub
+
+**To Do**:
+
+- [ ] Task
+
+**Link(s) to work**:
+
+* [LED Arduino Dice code - GIST](https://gist.github.com/janzeteachesit/b8df19375d92716482d39e299d2d3e80)
+* [Remix ofThe Node Beginner Book - Gomix](https://gomix.com/#!/project/befitting-seashore)
+* [Googel Classroom Api setup and test with Python](https://developers.google.com/classroom/guides/get-started)
+* [Test of Repl.it classroom for learningPython online with automatic marking - unittest](https://repl.it/teacher/classrooms/)
+
+
 ### Day 003: January 8, 2017 Sunday
 
 **Today's Progress**: Worked on a Hill Generator, based on https://seejamescode.github.io/hill-generator/.  code and everything originally by: [James Y Rauhut](https://twitter.com/seejamescode) ATX Designer working for IBM Design.  Totally cool idea & app.  Thanks James for introducing them to me.
