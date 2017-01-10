@@ -42,7 +42,7 @@
 
 * [LED Arduino Dice code - GIST](https://gist.github.com/janzeteachesit/b8df19375d92716482d39e299d2d3e80)
 * [Remix ofThe Node Beginner Book - Gomix](https://gomix.com/#!/project/befitting-seashore)
-* [Googel Classroom Api setup and test with Python](https://developers.google.com/classroom/guides/get-started)
+* [Google Classroom Api setup and test with Python](https://developers.google.com/classroom/guides/get-started)
 * [Test of Repl.it classroom for learningPython online with automatic marking - unittest](https://repl.it/teacher/classrooms/)
 
 
