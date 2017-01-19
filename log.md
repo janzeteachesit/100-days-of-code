@@ -63,7 +63,8 @@
 
 ### Day 007: January 12, 2017 Thursday
 
-**Today's Progress**:
+**Today's Progress**: Cloak of darkenss https://codepen.io/janzeteachesit/details/jyqGvP/
+check activity codepen
 
 ### Day 006: January 11, 2017 Wednesday
 
