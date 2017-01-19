@@ -26,6 +26,53 @@
 
 * [Link](#)
 
+### Day 004: January 18, 2017 Wednesday
+
+**Today's Progress**: 2 CodePen with 3 implementations.   I also forked a repo, made a change and made a pull request for CardKit today.
+
+**Thoughts**:  Real focus today was to try lots of code different code in Codepen and to solve problem for Mike of Concept Map tool. 
+
+**To Do**:
+
+- [ ] add to Medium
+
+**Link(s) to work**:
+
+* [CardKit 2 - CodePen](https://codepen.io/janzeteachesit/pen/XppEVX)
+* [Mermaid Test, with KaTeX - CodePen](https://codepen.io/janzeteachesit/pen/OWWZKN)
+
+### Day 004: January 17, 2017 Tuesday
+
+**Today's Progress**:
+
+### Day 004: January 16, 2017 Monday
+
+**Today's Progress**:
+
+### Day 004: January 15, 2017 Sunday
+
+**Today's Progress**:
+
+### Day 009: January 14, 2017 Saturday
+
+**Today's Progress**:
+
+### Day 008: January 13, 2017 Friday
+
+**Today's Progress**:
+
+### Day 007: January 12, 2017 Thursday
+
+**Today's Progress**:
+
+### Day 006: January 11, 2017 Wednesday
+
+**Today's Progress**:
+
+### Day 005: January 10, 2017 Tuesday
+
+**Today's Progress**:
+
 ### Day 004: January 9, 2017 Monday
 
 **Today's Progress**:
