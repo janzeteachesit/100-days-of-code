@@ -26,6 +26,13 @@
 
 * [Link](#)
 
+### January 22, 2017 Sunkday
+
+#### /100
+
+**Today's Progress**: to do list on codepen from gina tripani [see here](https://github.com/janzeteachesit/todo.txt-html5/blob/master/todo.txt.md)
+
+
 ### Day 004: January 18, 2017 Wednesday
 
 **Today's Progress**: 2 CodePen with 3 implementations.   I also forked a repo, made a change and made a pull request for CardKit today.
