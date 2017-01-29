@@ -30,4 +30,4 @@ Gomix provides you with your own container that allows you to run both frontend 
 * you can use bash scripts and NPM's scripts for frontend build pipelines and command line features. 
 * can't currently root access into the container to install stuff on own, but gomix team can add stuff to the base image needed.
 
-see also [Gomix FAQs](https://gomix.com/help/faqs/0
+see also [Gomix FAQs](https://gomix.com/help/faqs/)
