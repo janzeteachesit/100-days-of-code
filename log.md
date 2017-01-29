@@ -26,7 +26,7 @@
 
 * [Link](#)
 
-### January 22, 2017 Sunkday
+### January 22, 2017 Sunday
 
 #### /100
 
